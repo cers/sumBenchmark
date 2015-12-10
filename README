@@ -1,0 +1,17 @@
+On my machine this yields the result:
+
+Language: C
+Result: 1250000025000000
+Elapsed: 126ms
+Language: Ruby
+Result: 1250000025000000
+Elapsed: 2665.631ms
+Language: Python (python)
+Result:  1250000025000000
+Elapsed: 3071ms
+Language: Python (pypy)
+Result:  1250000025000000
+Elapsed: 66ms
+Language: Javascript (node)
+Result:  1250000025000000
+Elapsed: 75ms

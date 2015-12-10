@@ -13,5 +13,5 @@ python sum.py
 echo "Language: Python (pypy)"
 pypy sum.py
 
-echo "Language: Javascript"
+echo "Language: Javascript (node)"
 node sum.js
